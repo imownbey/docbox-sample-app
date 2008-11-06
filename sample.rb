@@ -2,8 +2,10 @@
 
 class FirstClass
   # This is just a method.
-  #
+  #  
   # And this is rubycon!
+  #
+  # Tada
   def some_method(params_yup)
     p "Hello World!"
   end
